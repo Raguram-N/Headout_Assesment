@@ -211,7 +211,6 @@ Adults purchasing General Admission or Fast Track + The Next Level tickets may b
 - The right ticket, the right timing, and the right information can turn a good visit into a memorable one.
 - You're not just booking a ticket—you're planning a memory.
 
----
 
 > **✨ Travel better. Experience deeper.**
 
