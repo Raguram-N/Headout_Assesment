@@ -189,8 +189,6 @@ Available with both General Admission and Fast Track tickets.
 
 ---
 
----
-
 ## 📌 Things to Know Before Booking
 
 - Ticket prices vary by date, day, and time slot.
@@ -199,7 +197,9 @@ Available with both General Admission and Fast Track tickets.
 - Ticket inclusions and promotional offers may change over time.
 - Always review the latest ticket details before booking.
 
-### Current Offer: 
+---
+
+## ✨ Current Offer: 
 Adults purchasing General Admission or Fast Track + The Next Level tickets may be eligible for a complimentary child ticket (under 12 years). Check the latest offer details before booking.
 
 ---
