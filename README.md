@@ -4,12 +4,17 @@ Not sure which ticket to choose? Here's a simple guide to help you find the righ
 
 ---
 
-## 🏆 General Admission
-
 <table>
 <tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="1.png" width="95%" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
 <td width="60%" valign="top">
 
+
+## 🏆 General Admission
 ### Best for first-time visitors
 
 If you're visiting The View at The Palm for the first time, this ticket is all you need.
@@ -32,23 +37,21 @@ If you're visiting The View at The Palm for the first time, this ticket is all y
 **Good to know:** Sunset and weekend slots usually cost more than weekday visits.
 
 </td>
-
-<td width="40%" align="center">
-
-<img src="general-admission.png" width="100%" alt="General Admission"/>
-
-</td>
 </tr>
 </table>
 
 ---
 
-## ⚡ Fast Track + The Next Level
-
 <table>
 <tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="2.png" width="95%" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
 <td width="60%" valign="top">
 
+## ⚡ Fast Track + The Next Level
 ### Best for the best views
 
 Don't want to spend time waiting in queues?
@@ -72,23 +75,22 @@ This ticket includes priority entry and access to The Next Level on Level 54 —
 ✅ You love photography and skyline views
 
 </td>
-
-<td width="40%" align="center">
-
-<img src="fast-track.png" width="100%" alt="Fast Track"/>
-
-</td>
 </tr>
 </table>
 
----
 
-## 🍽️ Dining Experiences
+---
 
 <table>
 <tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="3.png" width="95%" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
 <td width="60%" valign="top">
 
+## 🍽️ Dining Experiences
 ### Best for a special day out
 
 Want more than just the views?
@@ -114,23 +116,21 @@ All dining packages include a beverage.
 **Tip:** Afternoon Tea is one of the most popular choices for sunset visits.
 
 </td>
-
-<td width="40%" align="center">
-
-<img src="dining-experience.png" width="100%" alt="Dining Experience"/>
-
-</td>
 </tr>
 </table>
 
+
 ---
-
-## 🎫 Combo Tickets
-
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" align="center" valign="middle">
 
+<img src="4.png" width="95%" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+  
+## 🎫 Combo Tickets
 ### Best value for Dubai tourists
 
 Planning to visit other attractions during your trip?
@@ -153,23 +153,22 @@ Combo tickets let you bundle your visit with other popular Dubai experiences and
 ✅ You're planning a full day of sightseeing
 
 </td>
-
-<td width="40%" align="center">
-
-<img src="combo-ticket.png" width="100%" alt="Combo Ticket"/>
-
-</td>
 </tr>
 </table>
 
----
 
-## 🌅 Visiting at Sunset
+---
 
 <table>
 <tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="5.png" width="95%" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
 <td width="60%" valign="top">
 
+## 🌅 Visiting at Sunset
 ### The most popular time to visit
 
 Many visitors consider sunset the best time to visit.
@@ -189,14 +188,9 @@ Watching the sun set over Palm Jumeirah and Dubai's skyline creates some of the 
 Available with both General Admission and Fast Track tickets.
 
 </td>
-
-<td width="40%" align="center">
-
-<img src="sunset-view.png" width="100%" alt="Sunset Visit"/>
-
-</td>
 </tr>
 </table>
+
 
 ---
 
