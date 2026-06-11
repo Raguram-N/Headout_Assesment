@@ -54,7 +54,8 @@ Not sure which ticket to choose? Here's a simple guide to help you find the righ
 
 - Priority entry
 - Access to Level 52
-- Access to Level 54 (The Next Level - the highest viewing point at The View at The Palm)
+- Access to Level 54
+- the highest viewing point at The View at The Palm
 - Premium viewing area
 - Exclusive lounge
 
