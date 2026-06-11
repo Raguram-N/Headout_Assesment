@@ -1,11 +1,10 @@
 # 🌴 The View at The Palm: Which Ticket Should You Book?
 
-Not sure which ticket to choose? Here's a simple guide to help you find the right option.
+> **Not sure which ticket to choose? Here's a simple guide to help you find the right option.**
 
 ---
 
-## 🏆 General Admission
-> **Best for first-time visitors**
+###  1. General Admission
 
 <table>
 <tr>
@@ -36,10 +35,11 @@ Not sure which ticket to choose? Here's a simple guide to help you find the righ
 </tr>
 </table>
 
+> **✨ Best for first-time visitors**
+
 ---
 
-## ⚡ Fast Track + The Next Level
-> **Don't want to spend time waiting in queues?**
+### 2. Fast Track + The Next Level
 
 <table>
 <tr>
@@ -71,11 +71,11 @@ Not sure which ticket to choose? Here's a simple guide to help you find the righ
 </tr>
 </table>
 
+> **✨ Don't want to spend time waiting in queues**
 
 ---
 
-## 🍽️ Dining Experiences
-> **Want more than just the views?**
+### 3. Dining Experiences
 
 <table>
 <tr>
@@ -108,11 +108,11 @@ All dining packages include a beverage.
 </tr>
 </table>
 
+> **✨ More than just the views**
 
 ---
 
-## 🎫 Combo Tickets
-> **Planning to visit other attractions during your trip?**
+### 4. Combo Tickets
 
 <table>
 <tr>
@@ -142,11 +142,12 @@ All dining packages include a beverage.
 </tr>
 </table>
 
+> **✨ Planning to visit other attractions during your trip**
+
 
 ---
 
-## 🌅 Visiting at Sunset
-> **the most spectacular views of the day**
+### 🌅 Visiting at Sunset
 
 <table>
 <tr>
@@ -174,6 +175,7 @@ All dining packages include a beverage.
 </tr>
 </table>
 
+> **✨ Most spectacular views of the day**
 
 ---
 
