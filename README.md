@@ -147,7 +147,7 @@ All dining packages include a beverage.
 
 ---
 
-### 🌅 Visiting at Sunset
+### 5. Visiting at Sunset
 
 <table>
 <tr>
