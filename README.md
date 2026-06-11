@@ -179,21 +179,14 @@ Available with both General Admission and Fast Track tickets.
 
 ## 🤔 Still Not Sure?
 
-### Book General Admission if...
+| Travel Style | Recommended Ticket |
+|--------------|-------------------|
+| First-time visitor | 🏆 **General Admission** |
+| Best views & priority access | ⚡ **Fast Track + The Next Level** |
+| Special occasions & celebrations | 🍽️ **Dining Experience** |
+| Exploring multiple Dubai attractions | 🎫 **Combo Ticket** |
 
-You want the classic experience at the best price.
-
-### Book Fast Track if...
-
-You want the best views and shorter wait times.
-
-### Book Dining if...
-
-You're celebrating something special.
-
-### Book a Combo Ticket if...
-
-You're planning to explore more of Dubai.
+---
 
 ---
 
