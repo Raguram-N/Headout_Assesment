@@ -52,7 +52,7 @@
 
 #### What's included?
 
-- Priority entry
+- Priority entry 
 - Access to Level 52
 - Access to Level 54 - the highest viewing point
 - Premium viewing area
@@ -71,7 +71,7 @@
 </tr>
 </table>
 
-> **✨ Don't want to spend time waiting in queues**
+> **✨ Best for premium views**
 
 ---
 
@@ -108,7 +108,7 @@ All dining packages include a beverage.
 </tr>
 </table>
 
-> **✨ More than just the views**
+> **✨ Best for special occasions**
 
 ---
 
@@ -142,7 +142,7 @@ All dining packages include a beverage.
 </tr>
 </table>
 
-> **✨ Planning to visit other attractions during your trip**
+> **✨ Best value for tourists**
 
 
 ---
@@ -175,22 +175,16 @@ All dining packages include a beverage.
 </tr>
 </table>
 
-> **✨ Most spectacular views of the day**
+> **✨ Best time to visit**
 
 ---
 
-## 🤔 Still Not Sure?
-
-| Travel Style | Recommended Ticket |
-|--------------|-------------------|
-| First-time visitor | 🏆 **General Admission** |
-| Best views & priority access | ⚡ **Fast Track + The Next Level** |
-| Special occasions & celebrations | 🍽️ **Dining Experience** |
-| Exploring multiple Dubai attractions | 🎫 **Combo Ticket** |
+### 🎁 Current Offer: 
+Adults purchasing General Admission or Fast Track + The Next Level tickets may be eligible for a complimentary child ticket (under 12 years). Check the latest offer details before booking.
 
 ---
 
-## 📌 Things to Know Before Booking
+### 📌 Things to Know Before Booking
 
 - Ticket prices vary by date, day, and time slot.
 - Weekend tickets are usually priced higher than weekday tickets.
@@ -200,13 +194,12 @@ All dining packages include a beverage.
 
 ---
 
-## ✨ Current Offer: 
-Adults purchasing General Admission or Fast Track + The Next Level tickets may be eligible for a complimentary child ticket (under 12 years). Check the latest offer details before booking.
+### 🤔 Still Not Sure?
 
----
+| Travel Style | Recommended Ticket |
+|--------------|-------------------|
+| First-time visitor | 🏆 **General Admission** |
+| Best views & priority access | ⚡ **Fast Track + The Next Level** |
+| Special occasions & celebrations | 🍽️ **Dining Experience** |
+| Exploring multiple Dubai attractions | 🎫 **Combo Ticket** |
 
-## ⭐ Our Recommendation
-
-For most visitors, **General Admission** offers the best balance of experience and value.
-
-If you're visiting during sunset or want the highest viewpoint available, **Fast Track + The Next Level** is worth the upgrade.
