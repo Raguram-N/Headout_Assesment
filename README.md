@@ -1,129 +1,202 @@
 # 🌴 The View at The Palm: Which Ticket Should You Book?
 
-Choosing the right ticket can significantly impact your experience at The View at The Palm. Whether you're visiting for the views, a special occasion, or a packed Dubai itinerary, here's a quick breakdown to help you find the best option.
+Not sure which ticket to choose? Here's a simple guide to help you find the right option based on how you'd like to experience The View at The Palm.
 
 ---
 
-## 🎯 At a Glance
+## 🏆 General Admission
 
-| Ticket Type                 | Best For                 | Key Benefit                          |
-| --------------------------- | ------------------------ | ------------------------------------ |
-| General Admission           | First-time visitors      | Standard observation deck experience |
-| Fast Track + The Next Level | Visitors short on time   | Skip queues and access Level 54      |
-| Dining Experience           | Couples & celebrations   | Meal with panoramic views            |
-| Combo Tickets               | Tourists exploring Dubai | Better overall value                 |
+<table>
+<tr>
+<td width="60%" valign="top">
 
----
+### Best for first-time visitors
 
-## 🏆 Most Popular Choice: General Admission
+If you're visiting The View at The Palm for the first time, this ticket is all you need.
 
-If it's your first visit, this ticket offers everything you need to experience The View at The Palm.
+#### What's included?
 
-### What's Included?
+- Access to Level 52
+- Interactive exhibits
+- Immersive theatre experience
+- Observation deck with panoramic views
 
-* Access to Level 52
-* Interactive exhibits
-* Immersive theatre experience
-* Observation deck with panoramic views
+#### Choose this ticket if:
 
-### Choose this if:
-
-✅ You want the classic experience
-
-✅ You're visiting on a budget
+✅ You want the standard View at The Palm experience
 
 ✅ You're travelling with family
 
-**Good to know:** Weekend and sunset slots are usually priced higher than weekday visits.
+✅ You're looking for the most budget-friendly option
+
+**Good to know:** Sunset and weekend slots usually cost more than weekday visits.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="general-admission.png" width="100%" alt="General Admission"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Best Premium Experience: Fast Track + The Next Level
+## ⚡ Fast Track + The Next Level
 
-Want the best views without spending time in queues?
+<table>
+<tr>
+<td width="60%" valign="top">
 
-The Fast Track ticket combines priority entry with access to Dubai's highest viewpoint within The View at The Palm.
+### Best for the best views
 
-### What's Included?
+Don't want to spend time waiting in queues?
 
-* Priority entry
-* Access to Level 52
-* Access to The Next Level (Level 54)
-* Premium viewing area
-* Exclusive lounge
+This ticket includes priority entry and access to The Next Level on Level 54 — the highest viewing point at The View at The Palm.
 
-### Choose this if:
+#### What's included?
 
-✅ You're visiting during peak hours
+- Priority entry
+- Access to Level 52
+- Access to Level 54 (The Next Level)
+- Premium viewing area
+- Exclusive lounge
 
-✅ You want the highest viewing point
+#### Choose this ticket if:
 
-✅ You're interested in photography
+✅ You're visiting during busy hours
+
+✅ You want the highest viewpoint available
+
+✅ You love photography and skyline views
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="fast-track.png" width="100%" alt="Fast Track"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🍽️ Best for Special Occasions: Dining Experiences
+## 🍽️ Dining Experiences
 
-Turn your visit into a memorable meal with skyline views.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-### Available Experiences
+### Best for a special day out
 
-* Afternoon Tea
-* Lunch
-* Dinner
+Want more than just the views?
+
+Dining packages let you enjoy a meal while taking in Dubai's skyline from above.
+
+#### Available Experiences
+
+- Afternoon Tea
+- Lunch
+- Dinner
 
 All dining packages include a beverage.
 
-### Choose this if:
+#### Choose this ticket if:
 
 ✅ You're celebrating a special occasion
 
-✅ You prefer a relaxed sightseeing experience
+✅ You want a relaxed experience
 
-✅ You want dining with a view
+✅ You enjoy dining with a view
 
-**Tip:** Afternoon Tea is typically the best option for combining sunset views with a dining experience.
+**Tip:** Afternoon Tea is one of the most popular choices for sunset visits.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="dining-experience.png" width="100%" alt="Dining Experience"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎫 Best Value: Combo Tickets
+## 🎫 Combo Tickets
 
-Planning to explore more of Dubai?
+<table>
+<tr>
+<td width="60%" valign="top">
 
-Combo tickets bundle your visit with other attractions, often at a lower cost than purchasing separate tickets.
+### Best value for Dubai tourists
 
-### Popular Combinations
+Planning to visit other attractions during your trip?
 
-* Burj Khalifa
-* Dubai Frame
-* Water Parks
-* Drinks at The View
+Combo tickets let you bundle your visit with other popular Dubai experiences and usually save money compared to booking separately.
 
-### Choose this if:
+#### Popular combinations
+
+- Burj Khalifa
+- Dubai Frame
+- Water Parks
+- Drinks at The View
+
+#### Choose this ticket if:
 
 ✅ You're visiting multiple attractions
 
 ✅ You want better value for money
 
-✅ You're planning a full sightseeing itinerary
+✅ You're planning a full day of sightseeing
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="combo-ticket.png" width="100%" alt="Combo Ticket"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌅 Should You Visit at Sunset?
+## 🌅 Visiting at Sunset
 
-Sunset is widely considered the most scenic time to visit.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-### Sunset Timings
+### The most popular time to visit
+
+Many visitors consider sunset the best time to visit.
+
+Watching the sun set over Palm Jumeirah and Dubai's skyline creates some of the most spectacular views of the day.
+
+#### Sunset Hours
 
 **4:30 PM – 6:30 PM**
 
-### Before Booking a Sunset Slot
+#### Before you book
 
-* Expect higher ticket prices
-* Availability is limited
-* Book early, especially during weekends and holidays
+- Sunset tickets cost more than regular slots
+- These tickets sell out quickly
+- Book early if you're visiting on weekends or holidays
 
 Available with both General Admission and Fast Track tickets.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="sunset-view.png" width="100%" alt="Sunset Visit"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -131,33 +204,24 @@ Available with both General Admission and Fast Track tickets.
 
 ### Book General Admission if...
 
-You simply want to experience The View at The Palm at the lowest cost.
+You want the classic experience at the best price.
 
 ### Book Fast Track if...
 
-You value time, premium views, and a smoother experience.
+You want the best views and shorter wait times.
 
 ### Book Dining if...
 
-You're celebrating an occasion or want a more memorable visit.
+You're celebrating something special.
 
 ### Book a Combo Ticket if...
 
-You're spending multiple days in Dubai and plan to visit other attractions.
+You're planning to explore more of Dubai.
 
 ---
 
-## 📌 Before You Book
+## ⭐ Our Recommendation
 
-* Ticket prices vary by date and time slot.
-* Sunset tickets sell out faster than regular slots.
-* Review the latest ticket inclusions before booking.
-* Child-ticket policies may change and should be checked before purchase.
+For most visitors, **General Admission** offers the best balance of experience and value.
 
----
-
-## ✨ Final Recommendation
-
-For most first-time visitors, **General Admission** offers the best balance of value and experience.
-
-If your budget allows, **Fast Track + The Next Level** delivers the most complete experience with premium views and reduced waiting time.
+If you're visiting during sunset or want the highest viewpoint available, **Fast Track + The Next Level** is worth the upgrade.
