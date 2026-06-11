@@ -1,6 +1,6 @@
 # 🌴 The View at The Palm: Which Ticket Should You Book?
 
-Not sure which ticket to choose? Here's a simple guide to help you find the right option based on how you'd like to experience The View at The Palm.
+Not sure which ticket to choose? Here's a simple guide to help you find the right option based on how you'd like to experience.
 
 ---
 
