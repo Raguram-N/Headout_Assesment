@@ -4,6 +4,9 @@ Not sure which ticket to choose? Here's a simple guide to help you find the righ
 
 ---
 
+## 🏆 General Admission
+> **Best for first-time visitors**
+
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
@@ -12,12 +15,6 @@ Not sure which ticket to choose? Here's a simple guide to help you find the righ
 
 </td>
 <td width="60%" valign="top">
-
-
-## 🏆 General Admission
-### Best for first-time visitors
-
-If you're visiting The View at The Palm for the first time, this ticket is all you need.
 
 #### What's included?
 
@@ -34,13 +31,15 @@ If you're visiting The View at The Palm for the first time, this ticket is all y
 
 ✅ You're looking for the most budget-friendly option
 
-**Good to know:** Sunset and weekend slots usually cost more than weekday visits.
 
 </td>
 </tr>
 </table>
 
 ---
+
+## ⚡ Fast Track + The Next Level
+> **Don't want to spend time waiting in queues?**
 
 <table>
 <tr>
@@ -51,20 +50,14 @@ If you're visiting The View at The Palm for the first time, this ticket is all y
 </td>
 <td width="60%" valign="top">
 
-## ⚡ Fast Track + The Next Level
-### Best for the best views
-
-Don't want to spend time waiting in queues?
-
-This ticket includes priority entry and access to The Next Level on Level 54 — the highest viewing point at The View at The Palm.
-
 #### What's included?
 
 - Priority entry
 - Access to Level 52
-- Access to Level 54 (The Next Level)
+- Access to Level 54 (The Next Level - the highest viewing point at The View at The Palm)
 - Premium viewing area
 - Exclusive lounge
+
 
 #### Choose this ticket if:
 
@@ -81,6 +74,9 @@ This ticket includes priority entry and access to The Next Level on Level 54 —
 
 ---
 
+## 🍽️ Dining Experiences
+> **Want more than just the views?**
+
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
@@ -89,13 +85,6 @@ This ticket includes priority entry and access to The Next Level on Level 54 —
 
 </td>
 <td width="60%" valign="top">
-
-## 🍽️ Dining Experiences
-### Best for a special day out
-
-Want more than just the views?
-
-Dining packages let you enjoy a meal while taking in Dubai's skyline from above.
 
 #### Available Experiences
 
@@ -121,6 +110,10 @@ All dining packages include a beverage.
 
 
 ---
+
+## 🎫 Combo Tickets
+> **Planning to visit other attractions during your trip?**
+
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
@@ -130,13 +123,6 @@ All dining packages include a beverage.
 </td>
 <td width="60%" valign="top">
   
-## 🎫 Combo Tickets
-### Best value for Dubai tourists
-
-Planning to visit other attractions during your trip?
-
-Combo tickets let you bundle your visit with other popular Dubai experiences and usually save money compared to booking separately.
-
 #### Popular combinations
 
 - Burj Khalifa
@@ -159,6 +145,9 @@ Combo tickets let you bundle your visit with other popular Dubai experiences and
 
 ---
 
+## 🌅 Visiting at Sunset
+> **the most spectacular views of the day**
+
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
@@ -168,12 +157,6 @@ Combo tickets let you bundle your visit with other popular Dubai experiences and
 </td>
 <td width="60%" valign="top">
 
-## 🌅 Visiting at Sunset
-### The most popular time to visit
-
-Many visitors consider sunset the best time to visit.
-
-Watching the sun set over Palm Jumeirah and Dubai's skyline creates some of the most spectacular views of the day.
 
 #### Sunset Hours
 
@@ -211,6 +194,19 @@ You're celebrating something special.
 ### Book a Combo Ticket if...
 
 You're planning to explore more of Dubai.
+
+---
+
+## 📌 Things to Know Before Booking
+
+- Ticket prices vary by date, day, and time slot.
+- Weekend tickets are usually priced higher than weekday tickets.
+- Sunset slots carry premium pricing and limited availability.
+- Ticket inclusions and promotional offers may change over time.
+- Always review the latest ticket details before booking.
+
+### Current Offer: 
+Adults purchasing General Admission or Fast Track + The Next Level tickets may be eligible for a complimentary child ticket (under 12 years). Check the latest offer details before booking.
 
 ---
 
