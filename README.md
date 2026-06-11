@@ -54,8 +54,7 @@ Not sure which ticket to choose? Here's a simple guide to help you find the righ
 
 - Priority entry
 - Access to Level 52
-- Access to Level 54
-- the highest viewing point at The View at The Palm
+- Access to Level 54 - the highest viewing point
 - Premium viewing area
 - Exclusive lounge
 
@@ -90,8 +89,8 @@ Not sure which ticket to choose? Here's a simple guide to help you find the righ
 #### Available Experiences
 
 - Afternoon Tea
-- Lunch
-- Dinner
+- Lunch (adults only)
+- Dinner (adults only)
 
 All dining packages include a beverage.
 
@@ -161,7 +160,7 @@ All dining packages include a beverage.
 
 #### Sunset Hours
 
-**4:30 PM – 6:30 PM**
+4:30 PM – 6:30 PM
 
 #### Before you book
 
@@ -169,7 +168,7 @@ All dining packages include a beverage.
 - These tickets sell out quickly
 - Book early if you're visiting on weekends or holidays
 
-Available with both General Admission and Fast Track tickets.
+> Available with both General Admission and Fast Track tickets.
 
 </td>
 </tr>
